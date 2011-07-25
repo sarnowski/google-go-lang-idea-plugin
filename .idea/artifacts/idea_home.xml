@@ -8,6 +8,9 @@
           <element id="directory" name="testdata">
             <element id="dir-copy" path="$PROJECT_DIR$/testdata" />
           </element>
+          <element id="directory" name="gaesources">
+            <element id="dir-copy" path="$PROJECT_DIR$/gaesources" />
+          </element>
         </element>
       </element>
     </root>
